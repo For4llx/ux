@@ -1084,7 +1084,7 @@ and footer. Here's an example of this:
     {# render #}
     <twig:Dialog class="foo" title:class="bar" body:class="baz" footer:class="qux">
         Some content
-    </twig:MyDialog>
+    </twig:Dialog>
 
     {# output #}
     <div class="foo">
